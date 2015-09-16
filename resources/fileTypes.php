@@ -6,12 +6,15 @@ return array(
     '7z'    => 'fa-file-archive-o',
     'bz'    => 'fa-file-archive-o',
     'gz'    => 'fa-file-archive-o',
+    'lzma'  => 'fa-file-archive-o',
     'rar'   => 'fa-file-archive-o',
     'tar'   => 'fa-file-archive-o',
+    'xz'    => 'fa-file-archive-o',
     'zip'   => 'fa-file-archive-o',
 
     // Audio
     'aac'   => 'fa-music',
+    'ape'   => 'fa-music',
     'flac'  => 'fa-music',
     'mid'   => 'fa-music',
     'midi'  => 'fa-music',
@@ -56,7 +59,6 @@ return array(
 
     // Executables
     'app'   => 'fa-list-alt',
-    'bat'   => 'fa-list-alt',
     'com'   => 'fa-list-alt',
     'exe'   => 'fa-list-alt',
     'jar'   => 'fa-list-alt',
@@ -93,13 +95,19 @@ return array(
     // Scripts
     'bat'   => 'fa-terminal',
     'cmd'   => 'fa-terminal',
+    'command'   => 'fa-terminal',
     'sh'    => 'fa-terminal',
+    'tool'  => 'fa-terminal',
+    'vbs'   => 'fa-terminal',
 
     // Text
     'cfg'   => 'fa-file-text',
+    'conf'  => 'fa-file-text',
     'ini'   => 'fa-file-text',
+    'inf'   => 'fa-file-text',
     'log'   => 'fa-file-text',
     'md'    => 'fa-file-text',
+    'nfo'   => 'fa-file-text',
     'rtf'   => 'fa-file-text',
     'txt'   => 'fa-file-text',
 
